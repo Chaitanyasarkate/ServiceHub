@@ -57,7 +57,7 @@ ServiceHub is a comprehensive web platform designed to bridge the gap between us
 
 1. **Clone the repository**
    ```powershell
-   git clone <repository-url>
+   git clone <https://github.com/Chaitanyasarkate/servicehub>
    cd ServiceHub
    ```
 
