@@ -1,0 +1,64 @@
+ServiceHub - How to Run
+======================
+
+QUICK START (Easiest Way)
+========================
+
+1. Double-click: test-servicehub.bat
+   - This will check if everything is ready
+
+2. Double-click: setup-complete.bat
+   - This will install everything and start the app
+
+3. Open your browser and go to: http://localhost:3000
+
+MANUAL STEPS (If you prefer)
+===========================
+
+1. Create .env file:
+   - Copy "environment.env" and rename it to ".env"
+
+2. Install dependencies:
+   - npm install
+   - cd client
+   - npm install
+   - cd ..
+
+3. Start the application:
+   - npm run dev
+
+4. Open browser:
+   - Go to http://localhost:3000
+
+WHAT YOU'LL SEE
+===============
+
+- Beautiful ServiceHub homepage
+- User registration and login
+- Service provider search
+- Real-time chat system
+- Admin dashboard
+- Mobile-responsive design
+
+TROUBLESHOOTING
+===============
+
+If you get errors:
+1. Make sure Node.js is installed
+2. Restart your command prompt
+3. Run test-servicehub.bat to check
+
+If ports are busy:
+- Close other applications using ports 3000 or 5000
+- Or restart your computer
+
+SUCCESS!
+========
+
+Once running, you'll have a complete web platform for:
+- Hiring service providers
+- Offering services
+- Managing the platform
+- Real-time communication
+
+Enjoy your ServiceHub platform! 🚀
